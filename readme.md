@@ -5,7 +5,7 @@ Este proyecto forma parte de la asignatura **Entornos de Desarrollo** del IES Je
 - Página principal con cabecera, menú (Inicio, Horario) y footer.
 - Página de **Horario** con una tabla de clases.
 - Página **Sobre Mí** con información personal.
-- Etiquetado del repositorio como `V1.0`.
+- Etiquetado del repositorio como `V3.0`.
 ## Tecnologías utilizadas
 - HTML
 - Git y GitHub
